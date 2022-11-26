@@ -8,6 +8,6 @@ Je zde snaha o provedení práce v OOP a MVC modelu. MVC modelu bohužel zatím 
 Práci jsem opakovaně upravovala, aby byly metody co nejvíce rozčleněny a upraveny tak, 
 aby se zbytečně neopakoval kód a bylo snažší kódu porozumět, či ho upravovat pro další budoucí podobně založené aplikace.
 Tyto metody či třídy se mohou tudíž jednoduše aplikovat i na jiné aplikace či práce.
-Práce je náležitě rozdělena do tříd, objektů a html kódu.
+Práce je rozdělena do tříd, objektů a html kódu.
 
 Zimlová Lucie

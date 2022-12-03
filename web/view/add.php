@@ -21,7 +21,7 @@
             <br>
             <input class = 'Submit' type='submit' name='submit' value='Odeslat'>
         </form>",
-        "DATABASE" => "REGISTRUJ SVÉ ÚDAJE"
+        "DATABASE" => "SAVE DATA to DATABASE"
     ]
     );
     echo $tmplt->render();

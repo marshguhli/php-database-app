@@ -10,9 +10,6 @@ aby se zbytečně neopakoval kód a bylo snažší kódu porozumět, či ho upra
 Tyto metody či třídy se mohou tudíž jednoduše aplikovat i na jiné aplikace či práce.
 Práce je rozdělena do tříd, objektů a html kódu.
 
-Screenshoty: 
-https://ctrlv.cz/v59t
-https://ctrlv.cz/53gG
 
 
 Zimlová Lucie
